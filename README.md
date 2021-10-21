@@ -1,3 +1,3 @@
 - 👀 I’m currently working on FiveM scripts
 - 🌱 I’m currently learning JS
-- 📫 Contact me via Discord:
+- 📫 Contact me via Discord: AndreasH#6223
